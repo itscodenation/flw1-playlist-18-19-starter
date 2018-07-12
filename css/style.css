@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+}
+
+#cart {
+    display: flex;
+    justify-content: center;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+.column {
+    width: 18%;
+    padding: 25px 0px;
+}
+
+#images img {
+    display: block;
+    height: 100px;
+    width: auto;
+    margin: 20px;
+}
+
+#songs p {
+    font-size: 18px;
+    height: 100px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+#artists p {
+    font-size: 18px;
+    height: 100px;
+    margin: 20px;
+}
+
+#lengths p {
+    font-size: 16px;
+    height: 100px;
+    margin: 20px;
+    text-align: right;
+}
+
+#links a {
+    display: block;
+    font-size: 18px;
+    height: 100px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+#form {
+    width: 75%;
+    margin: 0 auto 20px auto;
+    font-size: 18px;
+}
+
+input {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+button {
+    font-size: 14px;
+    padding: 5px 10px;
+}
