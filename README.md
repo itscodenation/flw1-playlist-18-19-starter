@@ -32,15 +32,20 @@
 
 ## Day 3
 ### JS
-- [ ] 
+- [ ] A working click handler
+- [ ] Retrieve user input
+- [ ] Push items to your song array
+- [ ] Display the result to the screen
+
 ### Wrap
 - [ ] Push your changes!
 
 ## Extensions
 - [ ] Update the HTML and CSS to reflect your own style.
-- [ ] Change the theme of the quiz.
-- [ ] Add more questions to your quiz.
-- [ ] Update the function that displays the result so it displays an image in addition to the user-specific placement details.
+- [ ] Add more songs to your list and song information to your list
+- [ ] Add a delete button to delete songs on your list
+- [ ] Use local storage to save your songs locally
+
 
 
 ## Projects Extensions:
