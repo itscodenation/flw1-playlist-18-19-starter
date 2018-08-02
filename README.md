@@ -10,10 +10,15 @@
 - [ ] Fork this repository to your github account and clone it to a new workspace
 - [ ] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
-### index.html
-- [ ] 
+
 ### JS
-- [ ]
+- [ ] Change the songs in the songs array
+- [ ] Update the song array in your project to have at least 4 songs
+- [ ] Create four new arrays to store
+- [ ] images_urls, artists, song lengths, and links
+### html / css
+- [ ] Customize your CSS or add another column
+
 ### Wrap
 - [ ] Push your changes!
 
