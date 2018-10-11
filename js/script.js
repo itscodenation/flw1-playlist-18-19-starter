@@ -1,3 +1,4 @@
+/* global $ */
 
 // BELOW Update the songs to your favorites songs. There should be at least 4.
 var songs = [
