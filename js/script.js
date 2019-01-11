@@ -7,8 +7,8 @@ var songs = [];
 
 
 
-
-    // BELOW Use forEach Loop to display the data from each of your array's in the correct div
+function displaySongInfo(){
+    // BELOW Use forEach Loop to display the data from each of your arrays in the correct div
 
 }
 
