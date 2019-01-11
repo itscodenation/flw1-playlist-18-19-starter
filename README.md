@@ -12,10 +12,8 @@
 - [ ] Make your site live on gh-pages
 
 ### JS
-- [ ] Change the songs in the songs array
-- [ ] Update the song array in your project to have at least 4 songs
-- [ ] Create four new arrays to store
-- [ ] images_urls, artists, song lengths, and links
+- [ ] Update the songs array in your project to have at least 4 songs
+- [ ] Create four new arrays to store images_urls, artists, song lengths, and links
 ### html / css
 - [ ] Customize your CSS or add another column
 
@@ -24,18 +22,18 @@
 
 ## Day 2
 ### JS
-- [ ] Use forEach Loop to display the data from each of your array's in the correct div
-- [ ] Update the code to append and HTML Elements (img, p, a tags) using jQuery. 
+- [ ] Add a forEach loop in the displaySongInfo function to display the data from each of your arrays in the correct div
+- [ ] Update the code to correctly append HTML Elements (img, p, a tags) using jQuery
+- [ ] Use jQuery to complete the body of the emptySongInfo function
 ### Wrap
 - [ ] Push your changes!
 
 
 ## Day 3
 ### JS
-- [ ] A working click handler
-- [ ] Retrieve user input
-- [ ] Push items to your song array
-- [ ] Display the result to the screen
+- [ ] In the body of your addSongInfo function retrieve user inputs
+- [ ] In the body of your addSongInfo function push items to your song array
+- [ ] Display the results to the screen when the user clicks a button
 
 ### Wrap
 - [ ] Push your changes!
