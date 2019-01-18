@@ -43,6 +43,7 @@
 - [ ] Add more songs to your list and song information to your list
 - [ ] Add a delete button to delete songs on your list
 - [ ] Use local storage to save your songs locally
+- [ ] Add a shuffle button and shuffle functionality
 
 
 
